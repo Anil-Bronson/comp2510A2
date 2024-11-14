@@ -1,0 +1,5 @@
+Jane Zhang Mar-02-1970 3.80 120 I
+Olivia Smith Jul-19-1985 3.75 95 I
+Mary Jackson Feb-02-1990 4.00 60 I
+John Doe Nov-25-1995 3.30 85 I
+Sophia Wang Aug-05-1998 4.10 110 I
